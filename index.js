@@ -1,5 +1,8 @@
  // This is my first JavaScript Code
  console.log('Hello World');
 
- let names = 'Chad';
- console.log(names);
+ let firstName = 'Chad';
+ let lastName = 'Austin';
+
+ console.log(firstName);
+ console.log(lastName);
